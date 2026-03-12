@@ -3,7 +3,6 @@
 <!--
 **wramos19/wramos19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[C:\Users\wrwilliamss\Downloads\Copilot_20260312_000154.png](image.png)
 
 
 **Consultor Developer Especialista Oracle BackEnd PL/SQS **
